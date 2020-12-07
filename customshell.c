@@ -1,4 +1,4 @@
-/**********************************************************************
+/***********************************************************************************
 ** Program name: smallsh
 **
 ** Author: Kuljot Biring
@@ -26,7 +26,7 @@
 ** toggled on an off as the user desires. The program also uses signals
 ** to manipulate the way pressing cntrl+c and cntrl+z are handled in the
 ** shell
-*************************************************************************/
+*********************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
